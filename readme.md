@@ -4,7 +4,7 @@
 
 :fallen_leaf: _Start Anew. Unfollow everyone who you currently follow on GitHub._
 
-## CLI
+## Cli
 
 ```
 $ npm install --global github-unfollow-everyone
@@ -15,7 +15,7 @@ $ github-unfollow-everyone <username> <password>
 
 _:warning::warning: Running this command will **irreversibly** unfollow everyone who you currently follow!_
 
-## API
+## Api
 
 ```
 $ npm install --save github-unfollow-everyone
