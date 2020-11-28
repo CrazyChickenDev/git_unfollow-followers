@@ -1,6 +1,6 @@
-![](https://github.com/CrazyChickenDev/image/octocat.png)
+<img src=https://github.com/CrazyChickenDev/image/octocat.png></img>
 
-# GitHub Unfollow Everyone
+<p1 align="center"><h1>GitHub Unfollow Everyone</h1></p1>
 
 :fallen_leaf: _Start Anew. Unfollow everyone who you currently follow on GitHub._
 
