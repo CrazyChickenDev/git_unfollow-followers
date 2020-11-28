@@ -2,6 +2,7 @@
 </p>
 <h1 align ="center">GitHub Unfollow Everyone</h1>
 <h4 align ="center">:fallen_leaf:Start Anew. Unfollow everyone who you currently follow on GitHub.</h4>
+
 ## Cli
 
 ```
