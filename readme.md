@@ -1,9 +1,7 @@
 <p align="center"><img src="https://github.com/CrazyChickenDev/git_unfollow-followers/blob/master/Sentrytocat.jpg" width="300px" height="300px"> </img>
-<h1>GitHub Unfollow Everyone</h1>
 </p>
-
-:fallen_leaf: _Start Anew. Unfollow everyone who you currently follow on GitHub._
-
+<h1 align ="center">GitHub Unfollow Everyone</h1>
+<h4 align ="center">:fallen_leaf:Start Anew. Unfollow everyone who you currently follow on GitHub.</h4>
 ## Cli
 
 ```
