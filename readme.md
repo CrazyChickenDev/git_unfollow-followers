@@ -1,10 +1,10 @@
-![](https://d13yacurqjgara.cloudfront.net/users/2014/screenshots/1095158/attachments/137262/octocat.svg)
+![](https://github.com/CrazyChickenDev/image/octocat.png)
 
-#GitHub Unfollow Everyone
+# GitHub Unfollow Everyone
 
-:fallen_leaf: _Start anew. Unfollow everyone who you currently follow on GitHub._
+:fallen_leaf: _Start Anew. Unfollow everyone who you currently follow on GitHub._
 
-##CLI
+## CLI
 
 ```
 $ npm install --global github-unfollow-everyone
@@ -13,9 +13,9 @@ $ npm install --global github-unfollow-everyone
 $ github-unfollow-everyone <username> <password>
 ```
 
-_:warning: Running this command will **irreversibly** unfollow everyone who you currently follow!_
+_:warning::warning: Running this command will **irreversibly** unfollow everyone who you currently follow!_
 
-##API
+## API
 
 ```
 $ npm install --save github-unfollow-everyone
