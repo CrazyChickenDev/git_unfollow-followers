@@ -1,4 +1,4 @@
-<img src="https://github.com/CrazyChickenDev/git_unfollow-followers/blob/master/Sentrytocat.jpg"></img>
+<img src="https://github.com/CrazyChickenDev/git_unfollow-followers/blob/master/Sentrytocat.jpg" width="300px" height="300px"></img>
 
 <p1 align="center"><h1>GitHub Unfollow Everyone</h1></p1>
 
