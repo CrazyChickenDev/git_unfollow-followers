@@ -32,7 +32,3 @@ unfollowEveryone('<username>', '<password>', function(error) {
   console.log('done.');
 });
 ```
-
-##Related
-
-- [`github-unstar-all`](https://github.com/alexbooker/github-unstar-all)
